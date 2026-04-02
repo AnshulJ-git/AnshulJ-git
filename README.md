@@ -20,7 +20,7 @@
 ### 🎓 Project Management 
 | Certification | Provider | Verification |
 | :--- | :--- | :--- |
-| **Scrum Master and Aligle Training Program** | Global Logic | [Verify Here](https://drive.google.com/file/d/1E1UKxjJVCQkGHEb4ExOFL4-a08eSjNRu/view?usp=sharing) |
+| **Scrum Master and Agile Training Program** | Global Logic | [Verify Here](https://drive.google.com/file/d/1E1UKxjJVCQkGHEb4ExOFL4-a08eSjNRu/view?usp=sharing) |
 
 
 
