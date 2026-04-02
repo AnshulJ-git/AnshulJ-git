@@ -1,16 +1,35 @@
-## Hi there 👋
+## 🎓 Professional Certifications
+### 🎓 AI Certifications
 
-<!--
-**AnshulJ-git/AnshulJ-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Certification | Provider | Verification |
+| :--- | :--- | :--- |
+| **Google AI Essentials Certificate** | Google / Coursera | [Verify Here](https://coursera.org/verify/specialization/KZTFU2TY54XP)|
+| **Stay Ahead of the AI Curve** | Google / Coursera | [Verify Here](https://coursera.org/verify/EVPJ330559AS) |
+| **Use AI Responsibly** | Google / Coursera | [Verify Here](https://coursera.org/verify/URNMKYSVFGLB) |
+| **Discover the Art of Prompting** | Google / Coursera | [Verify Here](https://coursera.org/verify/FO9S7NRFV71Z) |
+| **Maximize Productivity With AI Tools** | Google / Coursera | [Verify Here](https://coursera.org/verify/DK8ESCJQ9YGC) |
+| **Understanding Agentic AI** | Agent Academy | [Verify Here](https://drive.google.com/file/d/1o0uWBEWQ4WJ8zuLSdTC_m9sgLSqKGcfs/view?usp=sharing) |
+| **AI Tools Workshop (be10x)** | be10x | [Verify Here](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd0997743321) |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Data Visualization
+| Certification | Provider | Verification |
+| :--- | :--- | :--- |
+| **Maximize Productivity With AI Tools** | Great Learning | [Verify Here](https://www.mygreatlearning.com/certificate/NOFHFZDV?referrer_code=GLEYQISB8MYOM) |
+
+### 🎓 Project Management 
+| Certification | Provider | Verification |
+| :--- | :--- | :--- |
+| **Scrum Master and Aligle Training Program** | Global Logic | [Verify Here](https://drive.google.com/file/d/1E1UKxjJVCQkGHEb4ExOFL4-a08eSjNRu/view?usp=sharing) |
+
+
+
+
+
+
+
+
+
+
+
+
