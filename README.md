@@ -1,3 +1,5 @@
+![Google AI Essentials](Coursera%20Certificate%20-%20Google%20AI%20Essentials_page_1.png)
+
 ## 🎓 Professional Certifications
 ### 🎓 AI Certifications
 
