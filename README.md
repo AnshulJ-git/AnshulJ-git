@@ -1,30 +1,45 @@
-![Google AI Essentials](Coursera%20Certificate%20-%20Google%20AI%20Essentials_page_1.png)
-
-## 🎓 Professional Certifications
-### 🎓 AI Certifications
-
-| Certification | Provider | Verification |
-| :--- | :--- | :--- |
-| **Google AI Essentials Certificate** | Google / Coursera | [Verify Here](https://coursera.org/verify/specialization/KZTFU2TY54XP)|
-| **Stay Ahead of the AI Curve** | Google / Coursera | [Verify Here](https://coursera.org/verify/EVPJ330559AS) |
-| **Use AI Responsibly** | Google / Coursera | [Verify Here](https://coursera.org/verify/URNMKYSVFGLB) |
-| **Discover the Art of Prompting** | Google / Coursera | [Verify Here](https://coursera.org/verify/FO9S7NRFV71Z) |
-| **Maximize Productivity With AI Tools** | Google / Coursera | [Verify Here](https://coursera.org/verify/DK8ESCJQ9YGC) |
-| **Understanding Agentic AI** | Agent Academy | [Verify Here](https://drive.google.com/file/d/1o0uWBEWQ4WJ8zuLSdTC_m9sgLSqKGcfs/view?usp=sharing) |
-| **AI Tools Workshop (be10x)** | be10x | [Verify Here](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd0997743321) |
-
-
-### 🎓 Data Visualization
-| Certification | Provider | Verification |
-| :--- | :--- | :--- |
-| **Maximize Productivity With AI Tools** | Great Learning | [Verify Here](https://www.mygreatlearning.com/certificate/NOFHFZDV?referrer_code=GLEYQISB8MYOM) |
-
-### 🎓 Project Management 
-| Certification | Provider | Verification |
-| :--- | :--- | :--- |
-| **Scrum Master and Agile Training Program** | Global Logic | [Verify Here](https://drive.google.com/file/d/1E1UKxjJVCQkGHEb4ExOFL4-a08eSjNRu/view?usp=sharing) |
-
-
+<table border="0">
+<tr>
+<td>
+<p align="center"><b>Google AI Essentials</b></p>
+<img src="Coursera%20Certificate%20-%20Google%20AI%20Essentials_page_1.png" width="400">
+</td>
+<td>
+<p align="center"><b>Understanding Agentic AI</b></p>
+<img src="certificate-understanding-agentic-ai-67432c58827e1409ba0ccf8a%20(1)_page_1.png" width="400">
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"><b>Art of Prompting</b></p>
+<img src="Coursera%20Certificate%20-%20Discover%20the%20Art%20of%20Prompting_page_1.png" width="400">
+</td>
+<td>
+<p align="center"><b>AI Productivity Tools</b></p>
+<img src="Coursera%20Certificate%20-%20Maximize%20Productivity%20With%20AI%20Tools_page_1.png" width="400">
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"><b>Stay Ahead of the AI Curve</b></p>
+<img src="Coursera%20Certificate%20-%20Stay%20Ahead%20of%20the%20AI%20Curve_page_1.png" width="400">
+</td>
+<td>
+<p align="center"><b>Responsible AI Usage</b></p>
+<img src="Coursera%20Certificate%20-%20Use%20AI%20Responsibly_page_1.png" width="400">
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"><b>Scrum & Agile Training</b></p>
+<img src="Scrum%20Master%20and%20Agile%20Training.jpg" width="400">
+</td>
+<td>
+<p align="center"><b>Additional Credential</b></p>
+<img src="Anshul%20Jangid%20(1)_page_1.png" width="400">
+</td>
+</tr>
+</table>
 
 
 
